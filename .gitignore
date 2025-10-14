@@ -1,0 +1,57 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Build output
+/dist
+/build
+/out
+/public/build
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependency directories
+/bower_components
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Testing
+/coverage
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Miscellaneous
+*.swp
+*.swo
+*~
+
+# React-specific
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+
+# Optional: Ignore local development server files
+/.cache
+/parcel-cache
