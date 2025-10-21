@@ -1,6 +1,6 @@
 function NayaMessage() {
 	return (
-		<h1> Raam Raam Dost, Jame Reh Amrit! </h1>
+		<h1 className="nayaMsg">Jame Reh Amrit! </h1>
 	)
 }
 
