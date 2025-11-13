@@ -9,3 +9,11 @@ const user = {
 user.welcomeMessage()
 user.username = "Somvaar"
 user.welcomeMessage()
+
+
+function sayMyName(name) {
+	console.log(`my name is ${name}`)
+}
+
+sayMyName('Chikara')
+sayMyName('Chirkina')
